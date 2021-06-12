@@ -8,7 +8,7 @@
 - Major: Mechanical Engineering
 - Minor: Aerospace Engineering
 
-### Projects I am currently assisting the Portland State Aerospace Society [Website](https://www.pdxaerospace.org/) and [GitHub](https://github.com/psas) as an Industry Advisor.
+### I am currently an Industry Advisor with the Portland State Aerospace Society [Website](https://www.pdxaerospace.org/) and [GitHub](https://github.com/psas). Below is a list of projects that PSAS is working on. OpenRocket is the Rocketry simulator that I use for predicting what my rockets will and will not do. 
 - [LFETS](https://github.com/psas/liquid-engine-test-stand)
 - [LV4.0 Airframe](https://github.com/psas/lv4.0-airframe)
 - [LV4.0 LRE](https://github.com/psas/liquid-propellant-engine)
